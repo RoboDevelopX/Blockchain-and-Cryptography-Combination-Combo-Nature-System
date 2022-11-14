@@ -5,5 +5,3 @@
 SYNOPSIS: [Blockchain+Crypto Synopsis .pdf](https://github.com/Vatshayan/Blockchain-and-Cryptography-Combination-Combo-Nature-System/files/7179447/Blockchain%2BCrypto.Synopsis.pdf)
 
 ------------------------
-
-**You Can use this Beautiful Project for your college Project and get good marks too.**
